@@ -21,7 +21,7 @@ Create a single-page HTML CV (Tạo CV HTML một trang).
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/single-page-cv.git
+   git clone https://github.com/TanHung189/Single-Page-CV.git
    ```
 
 2. Open the project folder:

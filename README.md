@@ -27,7 +27,7 @@ Create a single-page HTML CV (Tạo CV HTML một trang).
 2. Open the project folder:
 
    ```bash
-   cd single-page-cv
+   cd Single-Page-CV
    ```
 
 3. Open `index.html` in your browser to view the CV.
@@ -44,7 +44,7 @@ You can host your CV online using **GitHub Pages**:
 4. Save, and GitHub will give you a live link like:
 
    ```
-   https://your-username.github.io/single-page-cv/
+   https://your-username.github.io/Single-Page-CV/
    ```
 
 ---
@@ -52,7 +52,7 @@ You can host your CV online using **GitHub Pages**:
 ## Customization
 
 * Edit the content inside `index.html` to update your personal details.
-* Modify `style.css` to change fonts, colors, or layout.
+* Modify `myStyle.css` to change fonts, colors, or layout.
 * You can add more sections (Projects, Skills, Experience) as needed.
 
 ---

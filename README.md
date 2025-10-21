@@ -3,7 +3,6 @@ Create a single-page HTML CV (Tạo CV HTML một trang).
 
 ## Features
 
-* 🖋️ Clean and professional design
 * 📱 Responsive layout (works on mobile & desktop)
 * 🎨 Easy to customize (fonts, colors, sections)
 * 🌐 Deployable on GitHub Pages for online access
